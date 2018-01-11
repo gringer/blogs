@@ -9,3 +9,12 @@ A tutorial by David Eccles about representing a repetitive DNA sequence in a vis
 * [Repeat finder](https://github.com/gringer/bioinfscripts/blob/master/fastx-rlength.pl)
 * [Spiral-generating R script](https://github.com/gringer/bioinfscripts/blob/master/seqmat.r)
 * [Kmer dotplots](https://github.com/gringer/bioinfscripts/blob/master/fastx-kdotplot.pl)
+
+## Process
+
+1. Download sequence data
+2. Troll for repetitive regions
+3. Identify repetitive subsequence
+4. Generate spiral plot
+5. Generate kmer dotplots
+6. Create montage using GIMP
