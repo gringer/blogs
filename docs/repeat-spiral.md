@@ -88,9 +88,9 @@ and a little bit of electricity.
 
 Because the MinION sequences DNA by looking at it, it can show you
 things beyond what you could see from just knowing the A/C/G/T
-sequence. Some features of prepared DNA can only be seen by looking at
-the electrical signal created by the MinION. It's able to see chemical
-changes at a sub-base level, changes on the scale of a few nanometres.
+sequence.
+
+Some features of prepared DNA can only be seen by looking at the electrical signal created by the MinION. It's able to see chemical changes at a sub-base level, changes on the scale of a few nanometres. We have studied nanopore sequences at the electrical signal level for investigating whether there were epigenetic signals in unamplified mitochondrial DNA [1]. We have also used a signal-level analysis to distinguish between DNA sequences that were joined *in-vitro* during sample preparation and sequences that were joined *in-silico* by the base caller [2].
 
 [image: chimeric reads]
 
@@ -104,3 +104,9 @@ When I use this device, I get glimpses like these about what might be
 missing in our knowledge of DNA, and I get really excited by that.
 
 [image: nippo repeat region, showing spiral pattern]
+
+## References
+
+[1] https://f1000research.com/articles/6-56/v1
+
+[2] https://f1000research.com/articles/6-631/v2
