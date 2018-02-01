@@ -47,7 +47,11 @@ This sequencer is very portable: all it needs is some prepared DNA, and a little
 
 ### Nanoscopes and Wide-angle Lenses
 
-Because the MinION sequences DNA by looking at it, it can demonstrate things beyond what is observable from just knowing the A/C/G/T sequence. Some features of prepared DNA can only be seen by looking at the electrical signal created by the MinION. It's able to see chemical changes at a sub-base level, changes on the scale of a few nanometres.
+Because the MinION sequences DNA by looking at it, it can show you
+things beyond what you could see from just knowing the A/C/G/T
+sequence.
+
+Some features of prepared DNA can only be seen by looking at the electrical signal created by the MinION. It's able to see chemical changes at a sub-base level, changes on the scale of a few nanometres. We have studied nanopore sequences at the electrical signal level for investigating whether there were epigenetic signals in unamplified mitochondrial DNA [1]. We have also used a signal-level analysis to distinguish between DNA sequences that were joined *in-vitro* during sample preparation and sequences that were joined *in-silico* by the base caller [2].
 
 [image: chimeric reads]
 
@@ -57,6 +61,7 @@ When I use this sequencing device, I get glimpses like these about what might be
 
 [image: nippo repeat region, showing spiral pattern]
 
+<<<<<<< HEAD
 ## Repeats in the *Nippostrongylus brasiliensis* genome
 
 [Our](http://www.malaghan.org.nz) paper on the genome assembly of *Nippostrongylus brasiliensis* from [nanopore](http://www.nanoporetech.com) reads is now out:
@@ -109,3 +114,9 @@ Source scripts used to generate these images (some assembly required):
 * [dotplot annotator script](https://github.com/gringer/bioinfscripts/blob/master/dotplotAnnotator.r) -- adds annotation to the plain ripple plot
 
 ## Discussion
+=======
+## References
+
+[1] https://f1000research.com/articles/6-56/v1
+
+[2] https://f1000research.com/articles/6-631/v2
