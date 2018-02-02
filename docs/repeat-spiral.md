@@ -88,9 +88,15 @@ I'm still trying to rack my brains to work out *why* these regions exist, and wh
 
 ## Large-scale patterns in the human genome
 
+We are used to DNA sequences being treated as essentially random noise that accidentally creates useful stuff from time to time. I've been discovering in many ways that this is not the case, and that there is an impressive amount of order in DNA, even in places where we currently believe that the DNA is functionless.
+
 The [Nanopore-WGS-consortium](https://github.com/nanopore-wgs-consortium/NA12878/blob/master/Genome.md) has recently published [a paper](http://dx.doi.org/10.1038/nbt.4060) on an assembly of the human genome derived from [nanopore](http://www.nanoporetech.com) reads only.
 
 In the paper, they stated that they had successfully assembled the [Major Histocompatibility (MHC) locus](https://en.wikipedia.org/wiki/Major_histocompatibility_complex#Genes), which is considered to be a very tricky region to sequence and analyse (from a genetic perspecive). I went fishing (using [LAST-split](http://last.cbrc.jp/doc/last-split.html)) through their [attempts at genome assembly](https://github.com/nanopore-wgs-consortium/NA12878/blob/master/Genome.md#de-novo-assemblies), and found that one contiguous sequence of DNA from the 'canu.35x.contigs.fasta' assembly contained the entirety of the human MHC locus.
+
+Imagine standing in the middle of a mostly featureless expanse of desert, every rock looks just as uninteresting and as randomly-placed as the others. Every straggly bush or tree seems haphazardly placed. But then you start walking, and taking pictures every kilometre or so; taking pictures of what appears to be a world of nothingness. A couple of weeks later, you're revisiting the photos, and you notice that every third picture has a large rock in it that looks identical, and there's a little patch of grass nearby. It's a different part of the desert, you can tell by the timestamps on the pictures, but that same rock seems to keep appearing, again and again.
+
+This is similar to what I'm seeing with DNA. On the surface, there doesn't seem to be anything remarkably different between the sequence `ACTCCAGCCTGGTGACAGAGTGAGA` and the sequence `ACTCCAGCTCACAGTCCTGTCGATG`, yet the first one appears forty one times, and the second one only appears once in a DNA sequence 15,062,723 bases long.
 
 I've been tinkering around with my own methods for trying to demonstrate DNA structure at a large-scale level, and thought that the HLA region would be an interesting experiment in this regard, leading to the above image. My current name for these things is "ripple" plots, because tandem-repetitive sequences in the DNA form images that remind me of the reflection of islands on water. Maybe there's another name for them; I'd be very interested to know of it:
 
