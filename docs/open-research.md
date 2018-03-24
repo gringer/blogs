@@ -1,4 +1,4 @@
-I am an eLife ambassador for open research, but am also a strong advocate for free software. In order to give context to why I like free software, I will discuss my own ideas of open research, and how they are strongly linked to free software. By understanding the benefits and reasons behind free software, I think that we can be in a much better place to understand the benefits and reasons behind open research.
+I am an [eLife ambassador](https://elifesciences.org/inside-elife/912b0679/early-career-advisory-group-elife-welcomes-150-ambassadors-of-good-practice-in-science) for open research, but am also a strong advocate for free software. In order to give context to why I like free software, I will discuss my own ideas of open research, and how they are strongly linked to free software. By understanding the benefits and reasons behind free software, I think that we can be in a much better place to understand the benefits and reasons behind open research.
 
 # Open Research
 
