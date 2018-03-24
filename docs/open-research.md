@@ -30,7 +30,7 @@ Informed control, and informed trust, is important in research. We need to place
 
 ### Communication is Mediated
 
-Projects must have an agreed academic mediator for the entirety of the research project. The role of this mediator is to communicate academic gobbledygook to study participant representatives in an understandable fashion (i.e. ensuring they are fully informed throughout the research project), but also to communicate participant concerns as soon as possible to the academic investigators.
+Projects must have an agreed academic mediator for the entirety of the research project. The role of this mediator is to communicate academic gobbledygook to study participants (or their representatives) in an understandable fashion (i.e. ensuring they are fully informed throughout the research project), but also to communicate participant concerns as soon as possible to the academic investigators.
 
 ### Participants Maintain Control
 
