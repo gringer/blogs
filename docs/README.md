@@ -1,4 +1,4 @@
-# Bioinformatics Tutorials
+# Musings from a Bioinformatician
 
 by David Eccles
 
