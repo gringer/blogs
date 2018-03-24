@@ -26,7 +26,7 @@ However, we must also be mindful of the effects that our research may have on re
 
 ## Participant control
 
-Informed control, and informed trust, is important in research. We need to place importance on research *participants* having control over what is done. I am still a [mostly] clueless researcher, but was dramatically more so in the first couple of years of my PhD research. I have given [a presentation](https://www.researchgate.net/publication/308026084_The_Maori_Difference_Exploring_the_life_of_a_Maori_genetics_researcher) on my life as a Māori genetics researcher, and would like to reiterate my main teachable moments from that experience:
+Informed control, and informed trust, is important in research. We need to place importance on research *participants* having control over what is done. I am still a [mostly] clueless researcher, but was dramatically more so in the first couple of years of my PhD research. I have given [a presentation](https://www.researchgate.net/publication/308026084_The_Maori_Difference_Exploring_the_life_of_a_Maori_genetics_researcher) on my life as a Māori genetics researcher, and would like to reiterate my main teachable moments from that experience, particularly in the context of research projects:
 
 ### Communication is Mediated
 
