@@ -61,31 +61,6 @@ When I use this sequencing device, I get glimpses like these about what might be
 
 [image: nippo repeat region, showing spiral pattern]
 
-<<<<<<< HEAD
-## Repeats in the *Nippostrongylus brasiliensis* genome
-
-[Our](http://www.malaghan.org.nz) paper on the genome assembly of *Nippostrongylus brasiliensis* from [nanopore](http://www.nanoporetech.com) reads is now out:
-
-http://dx.doi.org/10.1186/s12915-017-0473-4
-
-One of the most mentioned advantages of DNA sequencing on the nanopore is the long reads that it produces. Over the past year I've been exploring what that enables us to see that we couldn't see before, and these repetitive regions are a good example of that.
-
-This image is showing a sub-sequence from one of the assembled pieces of the genome of *Nippostrongylus brasiliensis*, a rodent parasite with a similar life cycle to human hookworm. The sequence spirals out from the centre, and I've created the spiral in such a way that every loop of the spiral has the same number of bases of DNA (the "bases per ring" value shown at the bottom of the image).
-
-I usually put a key on these images (e.g. [here](https://twitter.com/gringene_bio/status/953858028800917504)), but have excluded it from this particular image. It uses the same colours for DNA sequence that are used in DNA sequencing electropherograms:
-
-A: green; T: red; G: yellow; C: blue
-
-We use those colours consistently to represent the different bases in our research paper.
-
-I wrote my own [R script](https://github.com/gringer/bioinfscripts/blob/master/seqmat.r) to create these images from a FASTA sequence, then used [gifsicle](https://www.lcdf.org/gifsicle/) to combine them into an animated GIF. The sequence is from our assembled genome, available from [here](https://www.ebi.ac.uk/ena/data/view/FZSS01000000).
-
-The lines radiating out from the centre of the image show bits of DNA that look the same in successive chunks of the sequence. The repetitive unit of approximately 3066 bases has no easily-detectable self-similarity: subsequences of that 3066-base repeat that are at least 13 bases long don't appear anywhere else in the repeat unit. Here's a 13-mer dotplot (created using a [Perl script](https://github.com/gringer/bioinfscripts/blob/master/fastx-kdotplot.pl) that I wrote) that attempts to demonstrate that, comparing the sequence to itself on the X and Y axes. Any repeated sequence appears as a red dot; any reverse-complemented sequence as a blue dot above the diagonal, and any reversed sequence as a green dot below the diagonal:
-
-[13-mer dotplot, Nippostrongylus brasiliensis, tig7744](https://i.imgur.com/M1frjRR.png)
-
-I'm still trying to rack my brains to work out *why* these regions exist, and what their function might be, but at least for now I can sit back and appreciate that they make beautiful pictures.
-
 ## Large-scale patterns in the human genome
 
 We are used to DNA sequences being treated as essentially random noise that accidentally creates useful stuff from time to time. I've been discovering in many ways that this is not the case, and that there is an impressive amount of order in DNA, even in places where we currently believe that the DNA is functionless.
@@ -118,6 +93,31 @@ Source scripts used to generate these images (some assembly required):
 
 * [kmer dotplot script](https://github.com/gringer/bioinfscripts/blob/master/fastx-kdotplot.pl) -- includes "ripple" plot as an alternate display option
 * [dotplot annotator script](https://github.com/gringer/bioinfscripts/blob/master/dotplotAnnotator.r) -- adds annotation to the plain ripple plot
+
+## Repeats in the *Nippostrongylus brasiliensis* genome
+
+[Our](http://www.malaghan.org.nz) paper on the genome assembly of *Nippostrongylus brasiliensis* from [nanopore](http://www.nanoporetech.com) reads is now out:
+
+http://dx.doi.org/10.1186/s12915-017-0473-4
+
+One of the most mentioned advantages of DNA sequencing on the nanopore is the long reads that it produces. Over the past year I've been exploring what that enables us to see that we couldn't see before, and these repetitive regions are a good example of that.
+
+This image is showing a sub-sequence from one of the assembled pieces of the genome of *Nippostrongylus brasiliensis*, a rodent parasite with a similar life cycle to human hookworm. The sequence spirals out from the centre, and I've created the spiral in such a way that every loop of the spiral has the same number of bases of DNA (the "bases per ring" value shown at the bottom of the image).
+
+I usually put a key on these images (e.g. [here](https://twitter.com/gringene_bio/status/953858028800917504)), but have excluded it from this particular image. It uses the same colours for DNA sequence that are used in DNA sequencing electropherograms:
+
+A: green; T: red; G: yellow; C: blue
+
+We use those colours consistently to represent the different bases in our research paper.
+
+I wrote my own [R script](https://github.com/gringer/bioinfscripts/blob/master/seqmat.r) to create these images from a FASTA sequence, then used [gifsicle](https://www.lcdf.org/gifsicle/) to combine them into an animated GIF. The sequence is from our assembled genome, available from [here](https://www.ebi.ac.uk/ena/data/view/FZSS01000000).
+
+The lines radiating out from the centre of the image show bits of DNA that look the same in successive chunks of the sequence. The repetitive unit of approximately 3066 bases has no easily-detectable self-similarity: subsequences of that 3066-base repeat that are at least 13 bases long don't appear anywhere else in the repeat unit. Here's a 13-mer dotplot (created using a [Perl script](https://github.com/gringer/bioinfscripts/blob/master/fastx-kdotplot.pl) that I wrote) that attempts to demonstrate that, comparing the sequence to itself on the X and Y axes. Any repeated sequence appears as a red dot; any reverse-complemented sequence as a blue dot above the diagonal, and any reversed sequence as a green dot below the diagonal:
+
+[13-mer dotplot, Nippostrongylus brasiliensis, tig7744](https://i.imgur.com/M1frjRR.png)
+
+I'm still trying to rack my brains to work out *why* these regions exist, and what their function might be, but at least for now I can sit back and appreciate that they make beautiful pictures.
+
 
 ## Discussion
 =======
