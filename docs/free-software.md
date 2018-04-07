@@ -99,7 +99,7 @@ http://www.gimp.org
 
 GIMP is a raster/pixel graphics editor for photo retouching and image manipulation.
 
-## Blender
+### Blender
 
 https://www.blender.org/
 
