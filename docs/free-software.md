@@ -241,9 +241,11 @@ Well, yes, but it's got a tetris simulator as one of the puzzles that you need t
 
 ## **Other**
 
-Have I forgotten something? Do you want to know more?
+Have I forgotten something? Want to know more?
 
 Check out my [twitter thread](https://twitter.com/gringene_bio/status/960668027711733760) on free software, or [email me](mailto:David Eccles <bioinformatics@gringene.org>?subject=Thanks for your blog post on Free and Open Source Software).
+
+For a more comprehensive view of the diversity of free software, check out [this list](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages) on Wikipedia.
 
 # Summary
 
