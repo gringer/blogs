@@ -113,9 +113,6 @@ introduce genetics, but it worked well for me because maths was one of
 my favourite subjects, and I found a comfortable familiarity in the
 punnet squares and binomial frequencies.
 
-My biology teacher in my last year at high school,
-
-
 My biology grades were low; I was a just-passing C student. I didn't
 have a head for rote learning, couldn't write good essays, and my mind
 is easily twisted into knots by binary comparisons (like "purines" and
