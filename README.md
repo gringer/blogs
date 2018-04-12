@@ -1,2 +1,2 @@
-# Tutorials
-Tutorials for various bioinformatics visualisations by David Eccles
+# Blogs
+Random comments about various things by David Eccles
