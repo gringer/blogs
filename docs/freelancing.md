@@ -100,3 +100,31 @@ the encryption format of the Warheads save game files (a simple
 `255-x` operation), allowing me to create my own weapon editor for
 that game. I loved tinkering with things, and programming opened up a
 whole new world of possibilities in that regard.
+
+### The Mathematics of Genetics
+
+In the meantime, I was studying maths and biology at school. For full
+disclosure, my 7th form [year 13] subjects were Biology, Chemistry,
+Physics, Calculus, Japanese, and Photography.
+
+I was introduced to genetics via Mendel and punnet squares. I learnt
+subsequently at a conference that Mendel is one of the worst ways to
+introduce genetics, but it worked well for me because maths was one of
+my favourite subjects, and I found a comfortable familiarity in the
+punnet squares and binomial frequencies.
+
+My biology teacher in my last year at high school,
+
+
+My biology grades were low; I was a just-passing C student. I didn't
+have a head for rote learning, couldn't write good essays, and my mind
+is easily twisted into knots by binary comparisons (like "purines" and
+"pyrimidines"). However, my teacher at the time,
+[Joan Hinton](http://www.whs.school.nz/weeklywrapup/weekly-wrap-up-term-4-week-8/),
+curiously recommended that I should consider a career in genetics.
+
+Once I was in a position to decide on university subjects, the advice
+was enough to nudge me away from my best high-school subject (physics)
+and towards my worst (biology). This decision was the beginning of a
+realisation that I could improve myself better by working on my
+weaknesses rather than my strengths.
