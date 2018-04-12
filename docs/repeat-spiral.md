@@ -61,7 +61,6 @@ When I use this sequencing device, I get glimpses like these about what might be
 
 [image: nippo repeat region, showing spiral pattern]
 
-<<<<<<< HEAD
 ## Repeats in the *Nippostrongylus brasiliensis* genome
 
 [Our](http://www.malaghan.org.nz) paper on the genome assembly of *Nippostrongylus brasiliensis* from [nanopore](http://www.nanoporetech.com) reads is now out:
