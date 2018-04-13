@@ -87,23 +87,24 @@ When I was about 14, an experimental programming course was introduced
 at Wellington High School. We started off learning a language called
 Logo, and wrote programs that controlled a little triangle as it moved
 across the screen. Later on in the course, we were introduced to the
-Pascal programming language, I discovered that the compiler we were
+Pascal programming language. I discovered that the compiler we were
 using had comprehensive help files with example code, and my interest
 in programming exploded.
 
-I flitted between BASIC and Pascal on various computers at school,
-with my main interest being in writing screensaver-like programs. I
-also did a bit of tinkering with save game files, and messing around
-with different binary file formats. I wrote some visualisation code to
-pull out world maps from Civilisation save game files, and discovered
-the encryption format of the Warheads save game files (a simple
-`255-x` operation), allowing me to create my own weapon editor for
-that game. I loved tinkering with things, and programming opened up a
-whole new world of possibilities in that regard.
+In my break time at school, I flitted between BASIC and Pascal on
+various computers, with my main interest being in writing
+screensaver-like programs. I also did a bit of tinkering with save
+game files, and messing around with different binary file formats. I
+wrote some visualisation code to pull out world maps from Civilisation
+save game files, and discovered the encryption format of the Warheads
+save game files (a simple `255-x` operation), allowing me to create my
+own weapon editor for that game. I loved tinkering with things, and
+programming opened up a whole new world of possibilities in that
+regard.
 
 ### The Mathematics of Genetics
 
-In the meantime, I was studying maths and biology at school. For full
+In the meantime, I was studying maths and biology. For full
 disclosure, my 7th form [year 13] subjects were Biology, Chemistry,
 Physics, Calculus, Japanese, and Photography.
 
@@ -125,3 +126,47 @@ was enough to nudge me away from my best high-school subject (physics)
 and towards my worst (biology). This decision was the beginning of a
 realisation that I could improve myself better by working on my
 weaknesses rather than my strengths.
+
+### The Universe of Intransitivity
+
+My first year of university was very good at knocking me off whatever
+pedestal I thought I was on at the end of my high school years. I
+*thought* I was good at maths, but that bubble was quickly popped when
+I saw the ease at which others were completing assignments, and asking
+*really good questions*. Even in computer science, I was outclassed by
+people who were able to quickly apply their learning to the tasks at
+hand; people who seemed to play more than work, and yet performed
+better in exams.
+
+But I found consolation in the realisation that the generic term
+"better" is not a transitive property. We live in a
+rock-paper-scissors world, where ability and success is
+multi-dimensional; dependent on our environment and other factors
+outside our control.
+
+My first year of university gave me a good grounding in the real
+world. I wrote copious notes in lectures and wore myself down, trying
+to keep challenging myself both physically and mentally, while I still
+had the youth and energy to do so.
+
+## A Lesson in Diagnosis
+
+In a sense, I had an industry job in bioinformatics before I even knew
+what bioinformatics was, and certainly before I had any formal
+training in research.
+
+During my first year at Victoria University, one of my high school
+friends told me there was a job available at her father's work. I was
+interviewed by
+[Collette Bromhead](https://www.nzord.org.nz/about-nzord/our_people),
+who at the time was the head of the Molecular Biology department of
+the Medical Laboratory in Courtenay Place, Wellington (now part of
+[Wellington SCL](https://www.wellingtonscl.co.nz/)). My main job was
+as a cleaner for the PC2 Molecular Biology pre and post-PCR rooms.
+
+Every Saturday morning for about four years, I went into the lab and
+filled hundreds of tubes with buffer solutions for diagnostic PCR
+tests (both lysis buffer and wash buffer), filled pipette tip boxes,
+refilled stocks of ethanol and phosphate-buffered saline, washed
+dishes, cleaned the benches, and loaded up a box of tube jars for
+autoclaving.
