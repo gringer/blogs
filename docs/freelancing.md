@@ -294,3 +294,58 @@ was a couple of months into my Honours degree, I realised that even
 the few hours I was doing on Saturday morning had to go, so I cut
 myself free of my financial lifeline before swimming into the ocean of
 academic research.
+
+## Additional notes from various conversations (not yet storified)
+
+* It's possible to make a living, but money comes in for me in spits
+and bursts, and it's very important to have plenty of buffer money for
+work-poor times (like now, for example). I've had to live without
+income for a few months while waiting for promising projects to start
+up, and [on the opposite side of the coin] have needed to juggle five
+or so projects in one week to meet project deadlines. It's much better
+to have a small stable base of fixed-payment work (e.g. waged for
+15h/week), so that very basic living costs can be paid for while
+waiting for other work.
+
+
+* I've almost always had a somewhat stable job I could fall back on,
+which generally comprises about 40-60% of the work I do. I'm also
+struggling a bit in finding additional work, because everyone wants
+full-time employment, which doesn't fit in with my mode of work. I'm
+much more productive if I'm able to work on a broad range of projects,
+because there are the occasional flashes of insight where I can use a
+solution from one project in a completely different domain.
+
+* For most of my work I use a computer that I assembled myself about 5
+years ago. It cost about $2500. It's a 12-core computer with 64 GB
+memory and a solid state hard drive for the main system, and a couple
+of spinning discs for additional data. I buy another hard drive every
+now and then when capacity becomes an issue. Some of my clients have
+their own compute server, which I log into for data analysis. I
+generally avoid cloud computing and/or compute clusters because it
+doesn't work out to be cheap in the long term, and frequently takes a
+lot more time to get stuff done.
+
+* IRD has rules about invoicing and tax, which gives me a lot of
+guidance with how to deal with international clients. I charge in
+foreign currency (with GST added on top of the agreed rate) and give
+money transfer details for my NZ bank account, recording on invoices
+the NZD equivalent of the billed amount at the time that I do my
+invoicing.
+
+* For me the most challenging part of the business side of things is
+asking people for money, particularly when they've already given me
+money for a project. Having defined project end time points is
+important to make it easier to do this. I've been encouraged to create
+a written agreement in advance for extra jobs. It's also important to
+set out job scope in the initial discussions of projects, giving
+examples of things that are in-scope and out-of-scope.
+
+* Doing work on software projects (e.g. Trinity, Canu) has been
+incredibly beneficial in increasing my knowledge and capability, but
+not so great in getting more paid work. That's partly because some job
+contracts are biased against sole-trader businesses (e.g. requiring
+$10M liability for damages). I've also limited myself by not wanting
+to travel to the USA, and also not working for large multi-national
+corporations.
+
