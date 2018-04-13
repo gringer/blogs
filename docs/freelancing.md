@@ -2,6 +2,7 @@
 title: "So You Want to Be a Freelance Bioinformatician"
 author: "David Eccles"
 date: "13 April 2018"
+toc: true
 output: html_document
 ---
 
@@ -164,9 +165,45 @@ the Medical Laboratory in Courtenay Place, Wellington (now part of
 [Wellington SCL](https://www.wellingtonscl.co.nz/)). My main job was
 as a cleaner for the PC2 Molecular Biology pre and post-PCR rooms.
 
+### A Few Tips
+
 Every Saturday morning for about four years, I went into the lab and
 filled hundreds of tubes with buffer solutions for diagnostic PCR
 tests (both lysis buffer and wash buffer), filled pipette tip boxes,
 refilled stocks of ethanol and phosphate-buffered saline, washed
 dishes, cleaned the benches, and loaded up a box of tube jars for
 autoclaving.
+
+I enjoy being alone in myself. My job gave me a lot of solitude and
+thinking time, staring out the window at a grey Wellington, while
+contemplating what pattern my tip boxes would be today. I couldn't
+completely turn off from the work I was doing (*that* almost
+invariably ended up with some angry notes in the note book the next
+week), but I could turn off enough that I could forget how stressed I
+was the day before, finishing off yet another maths assignment half an
+hour before it needed to be handed in.
+
+Despite the simplicity of the job I was doing, I still found ways to
+optimise it. I worked out that I could grab two long-reach 200μl tips
+in each hand and load them into the tip box at the same time, swapping
+each hand between grabbing from the bag and loading into the tip box.
+I discovered that reverse-pipetting from the wash buffer stock into
+the tubes was quicker than standard forward-pipetting, and seemed to
+be a bit less variable when using the same tip for all the tubes. I
+had worked out how much of the bench I needed to wipe down with
+ethanol before it had dried enough to put the equipment back onto the
+first place I wiped. And every Saturday after finishing up, I'd record
+the hours I had *actually* worked onto my time sheet, and give it to
+the person in charge of biochemistry to be signed off.
+
+I still invoice people for my physical hours worked (called "wall
+time" in computer science), and not for my thinking time or
+efficiency. It helps me acknowledge the time that I'm spending
+specifically for a certain project, and being able to have a good idea
+of the time cost of jobs is essential for juggling multiple projects
+at the same time. If I finish a job faster than I expect, people pay
+me less money. If I have a fixed *time* agreement, then I try to do
+more work (assuming that's possible). If I have a fixed *cost*
+agreement, I'll try to finish promptly (as long as my surrounding life
+situation works with that, because it frees up more time to do other
+things.
