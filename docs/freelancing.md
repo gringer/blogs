@@ -150,6 +150,21 @@ world. I wrote copious notes in lectures and wore myself down, trying
 to keep challenging myself both physically and mentally, while I still
 had the youth and energy to do so.
 
+### The Family connection
+
+My first waged job was actually working for my Māori tribe, working
+for a week at the small Rangitāne office in Grovetown, near
+Blenheim. I found myself there helping the Rangitane secretary with
+their membership database, improving the system they had for entering
+data, and improving the way they were recording the consensus family
+tree of the tribe. It’s interesting to think about it now, and realise
+that I didn’t actually do any data analysis in that first job, but
+helped them to do their existing work a little bit more efficiently. I
+also learned a lot from that job, understanding a great deal more
+about how databases worked, and how one program could allow me to
+enter data in one form, then twist the data around so that it could be
+interpreted in a completely different way.
+
 ## A Lesson in Diagnosis
 
 In a sense, I had an industry job in bioinformatics before I even knew
@@ -163,7 +178,9 @@ interviewed by
 who at the time was the head of the Molecular Biology department of
 the Medical Laboratory in Courtenay Place, Wellington (now part of
 [Wellington SCL](https://www.wellingtonscl.co.nz/)). My main job was
-as a cleaner for the PC2 Molecular Biology pre and post-PCR rooms.
+as a cleaner for the PC2 Molecular Biology pre and post-PCR rooms. My
+mother had worked as a laboratory technologist in the years before I
+was born, so in a sense I was following in her footsteps.
 
 ### A Few Tips
 
@@ -207,3 +224,73 @@ more work (assuming that's possible). If I have a fixed *cost*
 agreement, I'll try to finish promptly (as long as my surrounding life
 situation works with that, because it frees up more time to do other
 things.
+
+### Contagious Bioinformatics
+
+I caught the bioinformatics bug after I'd been working a few months at
+the Medical Laboratory. Collette was aware of my computer science
+background, and asked for a bit of help with a research project she
+was working on for the Wellington School of Medicine. She was
+investigating the prevalence of *Chlamydia trachomatis* in pregnant
+women in the Wellington region, and had an interest in comparing the
+effectiveness of different genetic testing methods. I ended up doing a
+combination of data entry and data analysis for that project, while at
+the same time trying to learn as little as possible about the ins and
+outs of *Chlamydia* infection. My work on that project led to my first
+acknowledgement of bioinformatics work at the end of a paper published
+in the New Zealand Medical Journal.
+
+### The Independence of Multiple Bosses
+
+Working a few hours a week in solitude probably helped to give me a
+bit of emotional stability, but it quickly stopped challenging
+me. Luckily, the Medical Laboratory was big enough that there was
+frequently some little job here and there that needed doing. I started
+moving around the organisation, adding bits and pieces to my regular
+work hours as my study situation at Victoria University allowed for
+it. I was still living at home, but began to spend more time away,
+probably to avoid the pull of chores, or the discomfort of the
+parental inquisition during dinner time.
+
+Over the course of my time at the Medical Laboratory, I ended up
+working in the departments of Molecular Biology, Serology,
+Biochemistry, Specimen entry, Cytology, Microbiology, Biostandards,
+and as a Courier. I became familiar with the process of analysis for
+most biochemistry tests carried out at the Laboratory, from bleeding,
+to transport by courier to the lab, to specimen entry, data entry,
+centrifugation, sorting, machine loading, discarding into short-term
+cold storage, and final disposal in a biochemical waste bin. Although
+I wasn't there as a qualified professional in any sense (neither
+phlebotomist nor laboratory technologist, like my mother), I had a
+sponge-like mind for soaking in the random discussions I had in down
+time about quality controls, normal ranges, standard deviations,
+sensitivity, specificity, and other things that impacted on the
+accuracy of diagnostic testing.
+
+Occasionally I'd be given a data analysis project to work on. I had a
+go at calculating normal ranges for a few biochemical tests, but
+fairly quickly realised that it was not an easy task due to the
+difficulty in finding "normal" test results. Another big project found
+me translating codes from one external laboratory into a more
+standardised format. I acquired an appreciation for the ISO15189
+standard that the laboratory adhered to, making sure that everything
+we used had an expiry date, that pipettes were properly calibrated,
+and that protocols were available for every test to ensure that anyone
+from the lab would have a chance of successfully carrying out
+diagnostic testing in an emergency.
+
+Apart from my first job in the Molecular Biology department, I was
+almost never around in any department for long enough to do a yearly
+performance appraisal, let alone to be able to review the goals that
+were set from the previous year. Having so many transient managers
+meant that I had to learn how to manage myself. I had to make sure
+that I was taking care of myself, and only had a few weeks where my
+scatterings of part time work added up to over 40 hours (requiring
+overtime to be paid).
+
+I enjoyed my time working at the Medical Laboratory, but had to start
+scaling the work back as my academic workload increased. By the time I
+was a couple of months into my Honours degree, I realised that even
+the few hours I was doing on Saturday morning had to go, so I cut
+myself free of my financial lifeline before swimming into the ocean of
+academic research.
