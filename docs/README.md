@@ -6,3 +6,4 @@ by David Eccles
 * [Repeat Spiral Plot](repeat-spiral)
 * [Open Research](open-research)
 * [Free Software](free-software)
+* [So, You Want to Be a Bioinformatician](freelancing)
