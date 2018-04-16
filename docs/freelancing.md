@@ -14,10 +14,10 @@ sole-trader business as a bioinformatician. To get the most important
 point across first, I don't do it for the money (as is the case with
 many other freelance jobs). More explicitly, the freelance part of my
 work has almost never been the entirety of my work, and when it has
-I've sometimes had to go for a few months without a source of
-income. It's very easy to get underworked (or, for that matter,
-overworked), and a sizeable financial buffer has been important in
-keeping me and my family up and running.
+I've sometimes had to go for a few months without a source of income.
+It's very easy to get underworked (or, for that matter, overworked),
+and a sizeable financial buffer has been important in keeping me and
+my family up and running.
 
 ## What is Bioinformatics
 
@@ -37,6 +37,44 @@ always the case with research anyway). I can't help but parallel this
 with the somewhat snobbish definition of artificial intelligence that
 we were told during computer science lectures: if lay people can
 understand it, it's not artificial intelligence.
+
+## A series of fortunate events
+
+For those who are interested in the story behind my bioinformatics
+career, feel free to read the sections below. For those who aren't,
+I'll try to summarise the bits and pieces that I consider most
+important:
+
+* I have been writing code for a long time. I had the privilege of a
+  computer in my early childhood, and a parent who was able to teach
+  me about programming before I knew what it was. My childhood was
+  built on discovery, experimentation, and asking questions, and I
+  still do that.
+
+* Perspective is important. I'm much more productive if I'm able to
+  work on a broad range of projects, because there are the occasional
+  flashes of insight where I can one problem's solution in a
+  completely different domain. In every area of life, there will
+  always be someone you can learn from, and someone you can
+  teach. Working on the things that I am bad at has helped me to
+  become more productive in general.
+
+* Time management is essential. When taking on multiple projects it's
+  easy to get overworked, and I have had problems when I've been
+  underworked. Finding the right balance is a big challenge,
+  particularly given that things can finish earlier or (more
+  frequently) later than expected.
+
+* Emergency funds protect me from the randomness of life. I've had to
+  live without income for a few months, and have the occasional life
+  crisis that requires a lot more money. It's a good idea to have a
+  small stable base of fixed-payment work so that very basic living
+  costs can be paid for while waiting for other work.
+
+* I use free and open source software, and am used to the ecosystem of
+  bug reporting and constant, living software development. Software
+  gets better over time, and the speed at which most reported bugs get
+  fixed, with fixes shipped to other users, still amazes me.
 
 ## The Beginning
 
@@ -118,9 +156,8 @@ punnet squares and binomial frequencies.
 My biology grades were low; I was a just-passing C student. I didn't
 have a head for rote learning, couldn't write good essays, and my mind
 is easily twisted into knots by binary comparisons (like "purines" and
-"pyrimidines"). However, my teacher at the time,
-[Joan Hinton](http://www.whs.school.nz/weeklywrapup/weekly-wrap-up-term-4-week-8/),
-curiously recommended that I should consider a career in genetics.
+"pyrimidines"). However, my teacher at the time curiously recommended
+that I should consider a career in genetics.
 
 Once I was in a position to decide on university subjects, the advice
 was enough to nudge me away from my best high-school subject (physics)
@@ -171,16 +208,15 @@ In a sense, I had an industry job in bioinformatics before I even knew
 what bioinformatics was, and certainly before I had any formal
 training in research.
 
-During my first year at Victoria University, one of my high school
-friends told me there was a job available at her father's work. I was
-interviewed by
-[Collette Bromhead](https://www.nzord.org.nz/about-nzord/our_people),
-who at the time was the head of the Molecular Biology department of
-the Medical Laboratory in Courtenay Place, Wellington (now part of
-[Wellington SCL](https://www.wellingtonscl.co.nz/)). My main job was
-as a cleaner for the PC2 Molecular Biology pre and post-PCR rooms. My
-mother had worked as a laboratory technologist in the years before I
-was born, so in a sense I was following in her footsteps.
+During my first year at the Victoria University of Wellington, one of
+my high school friends told me there was a job available at her
+father's work. I was interviewed by the head of the Molecular Biology
+department of the Medical Laboratory in Courtenay Place, Wellington
+(now part of [Wellington SCL](https://www.wellingtonscl.co.nz/)). My
+main job was as a cleaner for the PC2 Molecular Biology pre and
+post-PCR rooms. My mother had worked as a laboratory technologist in
+the years before I was born, so in a sense I was following in her
+footsteps.
 
 ### A Few Tips
 
@@ -228,7 +264,7 @@ things.
 ### Contagious Bioinformatics
 
 I caught the bioinformatics bug after I'd been working a few months at
-the Medical Laboratory. Collette was aware of my computer science
+the Medical Laboratory. My supervisor was aware of my computer science
 background, and asked for a bit of help with a research project she
 was working on for the Wellington School of Medicine. She was
 investigating the prevalence of *Chlamydia trachomatis* in pregnant
@@ -295,26 +331,80 @@ the few hours I was doing on Saturday morning had to go, so I cut
 myself free of my financial lifeline before swimming into the ocean of
 academic research.
 
+## Permanent Head Damage
+
+Before I left, my molecular biology boss at the Medical Laboratory had
+advised me that if I wanted to pursue the computer science path in my
+career, my undergraduate degree would have been more than enough. On
+the other hand, a PhD project (rather than a Masters project) would be
+needed if I wanted to get a job in the academic world. The reason
+behind this had more to do with perception than with actual ability,
+but still, there it is: some do PhDs and some stay sane and grounded.
+
+### A shift in computer gear
+
+For my Honours project, I had a dual-boot Linux/Windows laptop, but
+was using Windows for a lot of data analysis because I was working on
+Access databases, Excel spreadsheets, and using
+[SPSS](https://en.wikipedia.org/wiki/SPSS) and
+[Arlequin](https://en.wikipedia.org/wiki/Arlequin).
+
+My Honours project could be described as an exercise in the manual
+hierarchical clustering of forensic STRs. I didn't really know what I
+was doing, but found a way to muddle through a clustering method that
+used linear algebra to order individuals based on their similarity to
+other individuals. I spent a lot of time working out how to do this in
+Excel, using Visual Basic code to carry out a bubble sort that
+reordered the rows and columns of an Excel spreadsheet. I also used
+conditional formatting to produce a visual example of the results of
+that clustering.
+
+About the time that I was writing up my Honours thesis, I discovered
+[R](https://www.r-project.org/), and realised that I could cut loose
+from almost all of the Windows applications I was using. There was an
+R library available to read in Excel files, and R made it very easy to
+produce good-looking graphs as PDF files. The hundreds of lines of
+code that I wrote for clustering could be replaced by a couple of
+lines of R code (the `hclust` and `image` functions), and ran quicker
+in R. The other advantage of R was that the scripts that I wrote in
+Windows worked without change on Linux as well. With the help of a
+little bit of [Wine](https://www.winehq.org/), I realised that I had
+no more need for Windows on my laptop, and made the switch to a
+Linux-only system.
+
+The other benefits of embracing Linux completely were the vast
+opportunities provided by the free and open source software
+community. With a little bit of effort put into fixing the occasional
+bug (which I was already very familiar with on Windows systems), I
+could get programs for free, and had the freedom to do whatever I
+wanted with them.
+
+### Preparing Buffers
+
+Throughout most of my life, the largest portion of my spending has
+been devoted to food. I don't eat much, but I spend money to entertain
+myself even less.
+
+I was introduced to the concept of a financial buffer when I was still
+in high school, and tried to keep my own bank account balance
+increasing, even when on a paper run income. My biggest purchase prior
+to entering university was a $150
+[plasma ball](https://en.wikipedia.org/wiki/Plasma_globe), and even at
+that stage of my life I was making sure I had at least double the
+money in my savings account before buying it.
+
+Being allowed to stay at home, combined with having a
+part-time-but-almost-full-time job while studying, gave me a
+considerable financial buffer while I hunted for PhD funding. This
+hunt continued for about another half year after I had finished up my
+Honours project. My Honours project supervisor was interested in
+keeping me on, both for a PhD project, and for other little odd jobs
+that he had at his work. I signed up to a casual work agreement with
+Environmental Science & Research (ESR), and was additionally given a
+scholarship by ESR to continue on with a PhD research project on Māori
+population genetics.
+
 ## Additional notes from various conversations (not yet storified)
-
-* It's possible to make a living, but money comes in for me in spits
-and bursts, and it's very important to have plenty of buffer money for
-work-poor times (like now, for example). I've had to live without
-income for a few months while waiting for promising projects to start
-up, and [on the opposite side of the coin] have needed to juggle five
-or so projects in one week to meet project deadlines. It's much better
-to have a small stable base of fixed-payment work (e.g. waged for
-15h/week), so that very basic living costs can be paid for while
-waiting for other work.
-
-
-* I've almost always had a somewhat stable job I could fall back on,
-which generally comprises about 40-60% of the work I do. I'm also
-struggling a bit in finding additional work, because everyone wants
-full-time employment, which doesn't fit in with my mode of work. I'm
-much more productive if I'm able to work on a broad range of projects,
-because there are the occasional flashes of insight where I can use a
-solution from one project in a completely different domain.
 
 * For most of my work I use a computer that I assembled myself about 5
 years ago. It cost about $2500. It's a 12-core computer with 64 GB
