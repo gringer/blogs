@@ -90,10 +90,14 @@ change them started in my childhood.
 
 ### A BASIC Start
 
+My parents tell me that I had a strong desire to tinker and explore
+was difficult to stop: I was given an old broken radio to play with
+when I was about 3 years old, and ended up fixing it.
+
 Our family got our first computer when I was 8 years old. For those
-that care, it was a 286 XT, it had a VGA screen, a 20MB hard drive and
-a “turbo” button. The hard drive meant that we could store different
-applications on the computer. Games as well.
+that are interested, it was a 286 XT, it had a VGA screen, a 20MB hard
+drive and a “turbo” button. The hard drive meant that we could store
+different applications on the computer. Games as well.
 
 One thing that my dad realised fairly early on was that the user
 interface of the system was a bit lacking. It was DOS, completely
