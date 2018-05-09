@@ -2,8 +2,8 @@
 
 by David Eccles
 
-* [Genome Firework Plot](firework-plot)
-* [Repeat Spiral Plot](repeat-spiral)
-* [Open Research](open-research)
-* [Free Software](free-software)
-* [So, You Want to Be a Bioinformatician](freelancing)
+* [Genome Firework Plot](firework-plot.md)
+* [Repeat Spiral Plot](repeat-spiral.md)
+* [Open Research](open-research.md)
+* [Free Software](free-software.md)
+* [So, You Want to Be a Bioinformatician](freelancing.md)
